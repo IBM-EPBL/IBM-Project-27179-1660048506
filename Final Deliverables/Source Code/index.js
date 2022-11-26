@@ -1,18 +1,18 @@
 var data = [
     {
-        username:"DHARANI",
+        username:"VENKATESH PRASANTH.P",
         password:"0020"    
     },
     {
-        username:"KAVIYA",
+        username:"SANJAY.S",
         password:"0001"
     },
     {
-        username:"SHANMUGAPRIYA",
+        username:"SANJEEVE MANI.C",
         password:"0004"
     },
     {
-        username:"SHREEVIHYAA",
+        username:"SUNIL KUMAR.S",
         password:"0050"
     },
   ]
